@@ -5,7 +5,7 @@
 - ⭐ Author of [CumulusServer](https://github.com/OpenRTMFP/Cumulus)
 - ⭐ Co-author with [Thomas Jammet](https://github.com/thomasjammet/thomasjammet) of [MonaServer](https://github.com/MonaSolutions/MonaServer2)
 
-[LinkedIn](https://www.linkedin.com/in/mathieupoux/)
+[Public profile](https://www.linkedin.com/in/mathieupoux/)
 <!--
 **MathieuPOUX/MathieuPOUX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
